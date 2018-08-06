@@ -1,0 +1,11 @@
+{
+  "name": "nutiket",
+  "version": "0.1.0",
+  "description": "Authentication service",
+  "main": "src/index.js",
+  "repository": "git@github.com:tahosalodge/nutiket.git",
+  "author": "Kevin McKernan <kevin@mckernan.in>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["backend", "frontend"]
+}
