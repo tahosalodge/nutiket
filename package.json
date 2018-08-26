@@ -10,6 +10,6 @@
   "workspaces": ["backend", "frontend"],
   "scripts": {
     "backend": "cd backend && yarn",
-    "frontend": "cd backend && yarn"
+    "frontend": "cd frontend && yarn"
   }
 }
