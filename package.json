@@ -7,5 +7,9 @@
   "author": "Kevin McKernan <kevin@mckernan.in>",
   "license": "MIT",
   "private": true,
-  "workspaces": ["backend", "frontend"]
+  "workspaces": ["backend", "frontend"],
+  "scripts": {
+    "backend": "cd backend && yarn",
+    "frontend": "cd backend && yarn"
+  }
 }
