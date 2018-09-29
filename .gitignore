@@ -1,2 +1,3 @@
 *.log
 now.json
+node_modules/
